@@ -92,6 +92,6 @@ The results can be improved by using a larger dataset, incorporating real-world 
 
 ### (8) Student's Details
 - Name: Durga Prasad Pallagorla
-- Roll No: 38
+- Roll No: 35
 - UIN: 211A058
-- Year: TE-AIDS 2026
+- Year: BE-AIDS 2026
